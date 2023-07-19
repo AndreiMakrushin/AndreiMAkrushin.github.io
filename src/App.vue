@@ -47,6 +47,7 @@ const redact = () => {
 
 <style>
 .container {
+  width: 100vw;
   font-family: 'poppins';
   background-color: black;
   display: flex;
